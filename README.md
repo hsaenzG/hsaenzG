@@ -4,17 +4,17 @@
 
 ### LATAM Developer Advocate @ AWS
 
-*Software Architect · Serverless & GenAI · Building in the open*
+*Arquitecta de Software · Serverless y GenAI · Construyendo en abierto*
 
 ---
 
-I help developers in Latin America build with AWS—from event-driven systems to GenAI on Amazon Bedrock. When I'm not on stage or writing, I'm probably refactoring something that "works fine" or exploring the next wave of serverless.
+Ayudo a desarrolladores en América Latina a construir con AWS: desde sistemas event-driven hasta GenAI en Amazon Bedrock. Cuando no estoy en el escenario o escribiendo, probablemente estoy refactorizando algo que "funciona bien" o explorando la próxima ola de serverless.
 
 </div>
 
 ---
 
-## Tech stack
+## Stack tecnológico
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -28,20 +28,24 @@ I help developers in Latin America build with AWS—from event-driven systems to
 
 ---
 
-## What I'm into
+## En lo que me enfoco
 
-**Serverless** — Event-driven architectures, Lambda, Step Functions, and designing systems that scale without thinking about servers.
+**Serverless** — Arquitecturas event-driven, Lambda, Step Functions y diseñar sistemas que escalan sin pensar en servidores.
 
-**GenAI** — Building with Amazon Bedrock and helping teams ship responsible, impactful AI applications.
+**GenAI** — Construir con Amazon Bedrock y ayudar a equipos a llevar aplicaciones de IA responsables e impactantes a producción.
 
-**Community & speaking** — AWS Serverless Hero · AWS Community Builder · speaking across LATAM. I learn more from the community than from any doc.
+**Artículos técnicos** — Escribo tutoriales y contenido sobre serverless, GenAI y AWS en dev.to.
+
+**Comunidad y speaking** — AWS Serverless Hero · AWS Community Builder · hablando por LATAM. Aprendo más de la comunidad que de cualquier documentación.
 
 ---
 
-## Connect
+## Conectar
 
 <p align="center">
   <a href="https://hazelsaenz.tech" target="_blank">🌐 hazelsaenz.tech</a>
+  &nbsp;·&nbsp;
+  <a href="https://dev.to/hsaenzg" target="_blank">dev.to</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/hazelsaenz" target="_blank">LinkedIn</a>
 </p>
@@ -49,10 +53,10 @@ I help developers in Latin America build with AWS—from event-driven systems to
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsaenzG&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsaenzG&layout=compact&theme=default&hide_border=true" alt="Top languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsaenzG&show_icons=true&theme=default&hide_border=true&custom_title=Estad%C3%ADsticas%20de%20GitHub" alt="Estadísticas de GitHub" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsaenzG&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados" width="350" />
 </p>
 
 <p align="center">
-  <sub>Open to conversations about serverless, GenAI, and building in public.</sub>
+  <sub>Abierta a conversaciones sobre serverless, GenAI y construir en público.</sub>
 </p>
