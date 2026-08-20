@@ -4,7 +4,11 @@
 
 # `hazel.saenz`
 
-`// LATAM DEVELOPER ADVOCATE @ AWS · FORMER AWS SERVERLESS HERO`
+### LATAM Developer Advocate @ AWS · Cloud Software Architect
+
+`// SERVERLESS · GENAI · COMUNIDAD · FORMER AWS SERVERLESS HERO`
+
+Arquitecta de software enfocada en serverless y GenAI. Fundadora del AWS User Group Guatemala. Construyendo en abierto y empoderando a builders en toda América Latina. 🇬🇹🇲🇽
 
 [![Website](https://img.shields.io/badge/hazelsaenz.tech-0D0D0D?style=flat-square&logo=googlechrome&logoColor=F5E000&labelColor=0D0D0D)](https://hazelsaenz.tech)
 [![Dev.to](https://img.shields.io/badge/dev.to-0D0D0D?style=flat-square&logo=devdotto&logoColor=F5E000&labelColor=0D0D0D)](https://dev.to/hsaenzg)
@@ -21,7 +25,7 @@
 
 ```bash
 $ whoami
-Hazel Sáenz — LATAM Developer Advocate @ AWS
+Hazel Sáenz — LATAM Developer Advocate @ AWS · Cloud Software Architect
 
 $ cat bio.txt
 Former AWS Serverless Hero. Fundadora del AWS User Group Guatemala.
@@ -89,29 +93,16 @@ $ ls ~/projects
 
 ---
 
-## `// stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hsaenzG&show_icons=true&hide_border=false&bg_color=0D0D0D&title_color=F5E000&text_color=F8F8F6&icon_color=F5E000&border_color=262626&custom_title=%2F%2F%20GitHub%20Stats" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsaenzG&layout=compact&hide_border=false&bg_color=0D0D0D&title_color=F5E000&text_color=F8F8F6&border_color=262626&custom_title=%2F%2F%20Top%20Languages" alt="Top Languages" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hsaenzG&background=0D0D0D&border=262626&stroke=262626&ring=F5E000&fire=F5E000&currStreakLabel=F5E000&sideLabels=F8F8F6&dates=9A9A9A&currStreakNum=F8F8F6&sideNums=F8F8F6" alt="GitHub Streak" height="165" />
-
-</div>
-
----
-
 ## `// connect`
 
 ```bash
 $ contact --hazel
-web       https://hazelsaenz.tech
+web        https://hazelsaenz.tech
 newsletter https://hazelsaenz.tech/newsletter
-devto     https://dev.to/hsaenzg
-linkedin  https://www.linkedin.com/in/hazelsaenz
-youtube   https://www.youtube.com/playlist?list=PLO6PJaDcvRD8
-aws-hero  https://aws.amazon.com/developer/community/heroes/hazel-saenz
+devto      https://dev.to/hsaenzg
+linkedin   https://www.linkedin.com/in/hazelsaenz
+youtube    https://www.youtube.com/playlist?list=PLO6PJaDcvRD8
+aws-hero   https://aws.amazon.com/developer/community/heroes/hazel-saenz
 ```
 
 <div align="center">
